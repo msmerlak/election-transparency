@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/msmerlak/election-transparency.png?label=ready&title=Ready)](https://waffle.io/msmerlak/election-transparency?utm_source=badge)
 ## Election Transparency
 
 **Slack:** [#election-transparency](https://datafordemocracy.slack.com/messages/election-transparency)
